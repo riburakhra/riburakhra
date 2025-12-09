@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rupinder Rakhra</h1>
-<h3 align="center">Cybersecurity Professional | DevSecOps Engineer | Cloud Security Advocate</h3>
 
 <p align="center">
-  <em>Where Security Meets Automation, Cloud Infrastructure, and Agile Development</em>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer;Cloud+Security+Specialist;Automation+Advocate;15%2B+Years+in+Cybersecurity;Building+Secure+Cloud+Infrastructure" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Securing the Cloud, One Pipeline at a Time</em>
 </p>
 
 <p align="center">
@@ -13,29 +18,20 @@
 
 ### 👨‍💻 About Me
 
-I'm a **cybersecurity professional** evolving into **DevSecOps engineering**, bringing 15+ years of public service experience into the world of secure cloud infrastructure and automated workflows. My mission is to integrate security seamlessly into every stage of the development lifecycle—bridging the gap between development and operations with a **security-first mindset**.
-```yaml
-current_role: Cyber Security Analyst @ Leidos Australia
-focus: DevSecOps | Cloud Security | Infrastructure as Code
-certifications: SC-200 Microsoft Security Operations Analyst (In Progress)
-location: Melbourne, Victoria, Australia
-passion: Cloud-Native Architecture, Automation & Secure Software Delivery
-```
+**DevSecOps Engineer** securing cloud infrastructure through automation, IaC, and CI/CD integration.
 
-**Career Highlights:**
-- 🛡️ Cybersecurity Analyst at **Leidos Australia**
-- 👮 13 years as Protective Services Officer with **Victoria Police**
-- 🔄 Successfully transitioning from traditional security to **DevSecOps**
-- 🎯 Passionate about bridging security and engineering practices
+Former cybersecurity analyst (15+ years) now building the bridge between security operations and cloud-native development. I automate security into every pipeline, deployment, and infrastructure decision.
 
----
+**Current Stack:**  
+`Terraform` `Kubernetes` `Docker` `AWS` `Splunk` `GitLab CI` `Jenkins` `Python` `Ansible`
 
-### 🔐 What I Bring to the Table
+**What I Build:**
+- 🔐 Security-first CI/CD pipelines with automated testing
+- ☁️ Cloud infrastructure using IaC (Terraform, Ansible)
+- 🚨 SIEM/SOAR automation for threat detection & response
+- 📊 Real-time monitoring with ELK, Prometheus, Grafana
 
-✨ **Security-First DevOps Workflows**  
-✨ **Strong Crisis Management & Communication Skills**  
-✨ **Technical Depth in Cybersecurity & Cloud Engineering**  
-✨ **Proactive, Growth-Oriented Leadership Approach**
+📍 Melbourne, Australia | 🎓 SC-200 (In Progress) | 💼 Leidos Australia
 
 ---
 
@@ -45,31 +41,29 @@ passion: Cloud-Native Architecture, Automation & Secure Software Delivery
 ![Trellix](https://img.shields.io/badge/-Trellix-DD0031?style=for-the-badge&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-**Expertise:**
 - SIEM & SOAR Platforms (Splunk)
 - Endpoint Detection & Response (Trellix)
-- Incident Response & Threat Detection
-- Security Monitoring & Log Analysis
+- Incident Response & Threat Hunting
+- Security Monitoring & Compliance
 
 ---
 
 ### ☁️ Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-**Skills:**
 - Infrastructure as Code (Terraform, Ansible)
-- Cloud Platforms (AWS, Azure, GCP)
-- AWS IAM & Identity Management
-- Cloud-Native Architecture & Microservices
+- Multi-Cloud Deployments (AWS, Azure, GCP)
+- IAM & Identity Management
+- Serverless Architecture (AWS Lambda)
 
 ---
 
-### 🔄 DevOps & Automation
+### 🔄 CI/CD & DevOps
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -77,11 +71,10 @@ passion: Cloud-Native Architecture, Automation & Secure Software Delivery
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**Capabilities:**
-- CI/CD Pipelines (GitLab CI, Jenkins, GitHub Actions)
-- Containerization & Orchestration (Docker, Kubernetes)
-- Automation & Scripting (Bash, Python)
-- Serverless Architecture (AWS Lambda)
+- GitLab CI, Jenkins, GitHub Actions
+- Container Orchestration (Docker, Kubernetes, Helm)
+- Pipeline Security Integration
+- GitOps Workflows
 
 ---
 
@@ -90,62 +83,85 @@ passion: Cloud-Native Architecture, Automation & Secure Software Delivery
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-**Tools:**
 - ELK Stack (Elasticsearch, Logstash, Kibana)
 - Prometheus & Grafana
-- Security Logging & Compliance Monitoring
+- Security Dashboards & Alerting
 
 ---
 
-### 🧰 Complete Tech Stack
+### 💻 Scripting & Automation
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+- Python (Security Automation)
+- Bash (Linux Administration)
+- PowerShell (Windows Automation)
+
+---
+
+### 🧰 Full Tech Stack
 
 <details>
-<summary>Click to expand full tech stack</summary>
+<summary>📋 Click to expand complete technology stack</summary>
 
-**Security Operations:**
+<br>
+
+**Security Operations**
 - Splunk (SIEM & SOAR)
-- Trellix (Endpoint Detection)
-- Incident Response & Threat Hunting
+- Trellix EDR
+- Incident Response
+- Threat Hunting
+- Vulnerability Management
 
-**Infrastructure as Code:**
+**Infrastructure as Code**
 - Terraform
 - Ansible
+- CloudFormation
 
-**CI/CD:**
-- GitLab CI
+**CI/CD Platforms**
+- GitLab CI/CD
 - Jenkins
 - GitHub Actions
+- Azure DevOps
 
-**Containerization:**
+**Containers & Orchestration**
 - Docker
 - Kubernetes
-- Helm
+- Helm Charts
+- Container Security Scanning
 
-**Cloud Platforms:**
-- AWS (IAM, Lambda, EC2, S3)
-- Microsoft Azure
+**Cloud Platforms**
+- AWS (EC2, S3, Lambda, IAM, ECS, EKS)
+- Microsoft Azure (Security Center, Sentinel)
 - Google Cloud Platform
 
-**Scripting & Automation:**
-- Bash
+**Programming & Scripting**
 - Python
+- Bash
 - PowerShell
+- YAML
 
-**Monitoring & Logging:**
+**Monitoring & Logging**
 - ELK Stack
 - Prometheus
 - Grafana
+- Splunk
+- CloudWatch
 
-**Collaboration:**
-- Microsoft Teams
+**Collaboration Tools**
 - Jira
 - Confluence
+- Microsoft Teams
 - Mattermost
+- Slack
 
-**Cloud Native Architecture:**
-- Microservices
-- Serverless Computing
-- AWS Lambda
+**Security & Compliance**
+- AWS IAM
+- Security Hardening
+- Compliance Automation
+- Policy as Code
 
 </details>
 
@@ -154,36 +170,64 @@ passion: Cloud-Native Architecture, Automation & Secure Software Delivery
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 📝 Latest Blog Posts
+### 🎓 Learning & Certifications
 
-🚀 Coming soon on LinkedIn – DevSecOps insights, career reflections, and technical deep dives!
+- 📜 **SC-200: Microsoft Security Operations Analyst** *(In Progress)*
+- 🔐 Advanced Kubernetes Security
+- ☁️ AWS Security Best Practices
+- 🛠️ Terraform Deep Dive
+
+---
+
+### 📝 Blog & Content
+
+🚀 **Coming Soon:** DevSecOps insights, automation tutorials, and career transition stories
+
+**Topics I'll Cover:**
+- Securing CI/CD Pipelines
+- Infrastructure as Code Best Practices
+- SIEM/SOAR Automation
+- Cloud Security Architecture
+- Career Transitions in Tech
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Explained: A Beginner's Guide](https://YOUR_HASHNODE_LINK)
+- [Kubernetes Explained: A Beginner's Guide](YOUR_HASHNODE_LINK)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 🎓 Certifications & Learning
+### 💡 What I Offer
 
-- 📜 **SC-200: Microsoft Security Operations Analyst** *(In Progress)*
-- 🎯 Continuous learning in DevSecOps practices
-- 🔐 Security-focused cloud architecture
+```python
+value_proposition = {
+    "security": "15+ years of hands-on cybersecurity experience",
+    "automation": "Building security into every pipeline and deployment",
+    "communication": "Bridging technical and non-technical stakeholders",
+    "mindset": "Security-first approach to cloud infrastructure"
+}
+```
 
 ---
 
-### 💡 My Mission
+### 🚀 Current Focus
 
-> "I'm passionate about bridging the gap between security and engineering. Whether it's automating compliance, securing cloud workloads, or mentoring others through career transitions, I bring heart, hustle, and high standards."
+- 🔨 Building secure IaC templates for multi-cloud deployments
+- 🤖 Automating security compliance checks in CI/CD
+- 📚 Mastering Kubernetes security patterns
+- 🎯 Contributing to DevSecOps community
 
 ---
 
@@ -196,32 +240,45 @@ passion: Cloud-Native Architecture, Automation & Secure Software Delivery
   <a href="mailto:riburakhra11@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://https://hashnode.com/" target="_blank">
+  <a href="https://YOUR_HASHNODE_BLOG" target="_blank">
     <img src="https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
   </a>
 </p>
 
 📧 **Email:** riburakhra11@gmail.com  
-📱 **Mobile:** 0430196512  
-🔗 **LinkedIn:** [linkedin.com/in/rupinder-singh-rakhra-devops](http://linkedin.com/in/rupinder-singh-rakhra-devops)
+📱 **Phone:** 0430 196 512  
+🔗 **LinkedIn:** [rupinder-singh-rakhra-devops](http://linkedin.com/in/rupinder-singh-rakhra-devops)
 
 ---
 
-### 🌟 Career Transition Journey
+### 🌟 Open To
 
-From **traditional cybersecurity** to **DevSecOps engineering**, I'm building the bridge between security operations and cloud-native development. Follow my journey as I share:
+- 💼 DevSecOps Engineering Roles (Melbourne & Remote)
+- 🤝 Open Source Security Projects
+- 🎓 Mentoring Security Professionals Transitioning to DevOps
+- 🗣️ Technical Writing & Speaking Opportunities
 
-- 🔐 DevSecOps best practices
-- ☁️ Cloud security implementations
-- 🚀 Automation and IaC tutorials
-- 💼 Career transition insights
+---
+
+### 📊 Weekly Focus
+
+```text
+Security Engineering    ████████████░░░░░░░░   60%
+Cloud Infrastructure    ████████░░░░░░░░░░░░   40%
+CI/CD Automation       ██████░░░░░░░░░░░░░░   30%
+Learning & Research    ██████████░░░░░░░░░░   50%
+```
 
 ---
 
 <p align="center">
-  <em>Open to collaboration, mentorship opportunities, and DevSecOps roles</em>
+  <em>"Bridging the gap between security and engineering—one automated deployment at a time."</em>
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/riburakhra">Rupinder Rakhra</a>
+  ⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Rupinder Rakhra</a>
+</p>
+
+<p align="center">
+  <sub>💡 Check out my pinned repositories for hands-on DevSecOps projects!</sub>
 </p>
