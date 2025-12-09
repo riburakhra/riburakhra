@@ -361,7 +361,6 @@ Continuous_Learning:
 - 🤝 **Collaboration** on security automation projects
 - 🎓 **Mentoring** security professionals transitioning to DevOps
 - 📝 **Technical Writing** & content creation opportunities
-- 🗣️ **Speaking Engagements** on DevSecOps topics
 - 🌐 **Open Source Contributions** in security and automation
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
