@@ -294,26 +294,6 @@ Continuous_Learning:
 
 > *"Whether it's automating compliance, securing cloud workloads, or mentoring others through career transitions, I bring **heart, hustle, and high standards**."*
 
-**My Approach:**
-```python
-def my_devSecOps_philosophy():
-    principles = {
-        "security_first": "Integrate security from day one, not as an afterthought",
-        "automation": "Automate repetitive tasks to focus on strategic improvements",
-        "collaboration": "Bridge technical and non-technical stakeholders effectively",
-        "continuous_learning": "Stay current with evolving threats and technologies",
-        "mentorship": "Share knowledge and help others grow in their careers",
-        "quality": "Build secure, scalable, and maintainable infrastructure"
-    }
-    
-    for key, value in principles.items():
-        print(f"✅ {key.replace('_', ' ').title()}: {value}")
-    
-    return "Building a secure digital future, one deployment at a time! 🚀"
-
-print(my_devSecOps_philosophy())
-```
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
