@@ -10,47 +10,13 @@
   <em>🔐 Where Security Meets Automation, Cloud Infrastructure, and Agile Development ☁️</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
 </p>
 
-I'm a **cybersecurity professional** evolving into **DevSecOps engineering**, bringing **15+ years of public service experience** into the world of secure cloud infrastructure and automated workflows. My mission is to integrate security seamlessly into every stage of the development lifecycle—bridging the gap between development and operations with a **security-first mindset**.
-
-```python
-class RupinderRakhra:
-    def __init__(self):
-        self.name = "Rupinder Rakhra"
-        self.role = "Cyber Security Analyst"
-        self.company = "Leidos Australia"
-        self.location = "Melbourne, Victoria, Australia 🇦🇺"
-        self.experience = "15+ years in Cybersecurity & Public Service"
-        self.evolution = "Traditional Security → DevSecOps Engineering"
-        
-    def current_focus(self):
-        return [
-            "🔐 Integrating security into CI/CD pipelines",
-            "☁️ Secure cloud deployments (AWS, Azure, GCP)",
-            "🏗️ Infrastructure as Code (Terraform, Ansible)",
-            "🚨 SIEM/SOAR automation and threat detection",
-            "📊 Real-time monitoring and compliance"
-        ]
-    
-    def certifications(self):
-        return ["📜 SC-200: Microsoft Security Operations Analyst (In Progress)"]
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build secure, automated systems together! 🚀")
-
-me = RupinderRakhra()
-me.say_hi()
-```
+I'm a **cybersecurity professional** evolving into **DevSecOps Engineering**, bringing **15+ years of public service experience** into the world of secure cloud infrastructure and automated workflows. My mission is to integrate security seamlessly into every stage of the development lifecycle—bridging the gap between development and operations with a **security-first mindset**.
 
 ### 💼 Career Highlights
 
@@ -262,16 +228,16 @@ PowerShell:
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riburakhra&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=riburakhra&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riburakhra&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riburakhra&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -358,7 +324,7 @@ print(my_devSecOps_philosophy())
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+DevSecOps+Insights+Coming+Soon!;%E2%98%81%EF%B8%8F+Cloud+Security+Best+Practices;%F0%9F%94%90+Career+Transition+Stories;%F0%9F%92%BB+Technical+Deep+Dives;%F0%9F%A4%9D+Mentorship+%26+Leadership" alt="Blog Topics" />
 </p>
 
-**🔗 Blog coming soon on LinkedIn – stay tuned for:**
+**🔗 Blog – www.linkedin.com/in/rupinder-singh-rakhra-devops:**
 
 📚 **Upcoming Content Topics:**
 - 🔐 Integrating Security into CI/CD Pipelines
@@ -398,7 +364,6 @@ print(my_devSecOps_philosophy())
   📧 <strong>Email:</strong> riburakhra11@gmail.com<br>
   📱 <strong>Phone:</strong> 0430 196 512<br>
   🔗 <strong>LinkedIn:</strong> <a href="http://linkedin.com/in/rupinder-singh-rakhra-devops">rupinder-singh-rakhra-devops</a><br>
-  📍 <strong>Location:</strong> Melbourne, Victoria, Australia 🇦🇺
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -444,5 +409,5 @@ Community & Mentoring   ████░░░░░░░░░░░░░░�
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Rupinder Rakhra</a> | Building a Secure Digital Future 🛡️☁️
+  ⭐️ From <a href="https://github.com/riburakhra">Rupinder Rakhra</a> | Building a Secure Digital Future 🛡️☁️
 </p>
