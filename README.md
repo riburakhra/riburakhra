@@ -332,7 +332,7 @@ Continuous_Learning:
   <a href="mailto:riburakhra11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://https://hashnode.com/" target="_blank">
+  <a href="https://hashnode.com/@riburakhra11" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
   </a>
 </p>
